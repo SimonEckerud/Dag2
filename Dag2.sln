@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dag2", "Dag2\Dag2.csproj", "{A3405119-2F3A-46A6-8C94-137FE4352C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3405119-2F3A-46A6-8C94-137FE4352C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3405119-2F3A-46A6-8C94-137FE4352C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3405119-2F3A-46A6-8C94-137FE4352C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3405119-2F3A-46A6-8C94-137FE4352C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E93742C-D055-49B4-BB2D-B148D7BE6D17}
+	EndGlobalSection
+EndGlobal
